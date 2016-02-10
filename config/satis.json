@@ -4,6 +4,18 @@
   "repositories": [
     {
       "type": "vcs",
+      "url": "git@github.com:mrwaim/RaniaMock.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/RaniaPrivate.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/BonusModel.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:mrwaim/OrderModel.git"
     },
     {
