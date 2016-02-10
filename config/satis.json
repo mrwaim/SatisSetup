@@ -12,39 +12,39 @@
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/findduplicatetags.git"
+      "url": "git@github.com:klsandbox/FindDuplicateTags.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/sitemodel.git"
+      "url": "git@github.com:klsandbox/sitemodel.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/movemodelcommand.git"
+      "url": "git@github.com:klsandbox/MoveModelCommand.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/clearcommands.git"
+      "url": "git@github.com:klsandbox/clearcommands.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/timelineevents.git"
+      "url": "git@github.com:klsandbox/TimelineEvents.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/smsmanager.git"
+      "url": "git@github.com:klsandbox/SmsManager.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/laravelcoveragereport.git"
+      "url": "git@github.com:klsandbox/laravelcoveragereport.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/randomhelper.git"
+      "url": "git@github.com:klsandbox/randomhelper.git"
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:mrwaim/rolemodel.git"
+      "url": "git@github.com:klsandbox/rolemodel.git"
     },
     {
       "type": "vcs",
