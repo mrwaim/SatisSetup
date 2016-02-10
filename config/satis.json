@@ -1,49 +1,55 @@
 {
-    "name": "KlSandbox Repository",
-    "homepage": "http://satis.klsandbox.com/",
-    "repositories": [
-{"type": "vcs", "url": "git@github.com:mrwaim/OrderModel.git"},
-{"type": "vcs", "url": "git@github.com:mrwaim/AddressModel.git"},
-	{
-	"type": "vcs",
-	"url": "git@bitbucket.org:mrwaim/findduplicatetags.git"
-	}, 
-       {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/sitemodel.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/movemodelcommand.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/clearcommands.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/timelineevents.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/smsmanager.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/laravelcoveragereport.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/randomhelper.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@bitbucket.org:mrwaim/rolemodel.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:mrwaim/DbScripts.git"
-        }
-    ],
-    "require-all": true
+  "name": "KlSandbox Repository",
+  "homepage": "http://satis.klsandbox.com/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/OrderModel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/AddressModel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/findduplicatetags.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/sitemodel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/movemodelcommand.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/clearcommands.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/timelineevents.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/smsmanager.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/laravelcoveragereport.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/randomhelper.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:mrwaim/rolemodel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/DbScripts.git"
+    }
+  ],
+  "require-all": true
 }
