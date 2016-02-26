@@ -65,6 +65,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:mrwaim/DbScripts.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/NotificationService.git"
     }
   ],
   "require-all": true
