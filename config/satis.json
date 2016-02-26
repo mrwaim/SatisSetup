@@ -8,6 +8,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:mrwaim/BackupManagement.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@bitbucket.org:mrwaim/RaniaPrivate.git"
     },
     {
