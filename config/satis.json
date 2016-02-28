@@ -73,6 +73,9 @@
     {
       "type": "vcs",
       "url": "git@github.com:mrwaim/AnnouncementManagement.git"
+    },
+    {
+      "packagist" : false
     }
   ],
   "require-all": true
