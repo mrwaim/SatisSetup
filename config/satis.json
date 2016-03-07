@@ -75,6 +75,10 @@
       "url": "git@github.com:mrwaim/AnnouncementManagement.git"
     },
     {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/BillplzMock.git"
+    },
+    {
       "packagist" : false
     }
   ],
