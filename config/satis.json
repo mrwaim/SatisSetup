@@ -79,6 +79,10 @@
       "url": "git@github.com:mrwaim/BillplzMock.git"
     },
     {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/BillplzRoute.git"
+    },
+    {
       "packagist" : false
     }
   ],
