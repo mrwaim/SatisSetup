@@ -83,6 +83,10 @@
       "url": "git@github.com:mrwaim/BillplzRoute.git"
     },
     {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/OrientationRoute.git"
+    },
+    {
       "packagist" : false
     }
   ],
