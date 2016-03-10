@@ -90,6 +90,10 @@
       "type": "vcs",
       "url": "git@github.com:mrwaim/RecruitmentRoute.git"
     },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/ReportRoute.git"
+    },
 	{
       "packagist" : false
     }
