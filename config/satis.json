@@ -94,6 +94,10 @@
       "type": "vcs",
       "url": "git@github.com:mrwaim/ReportRoute.git"
     },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/BonusRoute.git"
+    },
 	{
       "packagist" : false
     }
