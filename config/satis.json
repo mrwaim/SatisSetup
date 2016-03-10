@@ -87,6 +87,10 @@
       "url": "git@github.com:mrwaim/OrientationRoute.git"
     },
     {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/RecruitmentRoute.git"
+    },
+	{
       "packagist" : false
     }
   ],
