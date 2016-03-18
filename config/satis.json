@@ -102,6 +102,10 @@
       "type": "vcs",
       "url": "git@github.com:mrwaim/LoginThrottle.git"
     },
+    {
+      "type": "vcs",
+      "url": "git@github.com:klsandbox/laravel.git"
+    },
 	{
       "packagist" : false
     }
