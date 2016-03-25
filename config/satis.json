@@ -106,6 +106,10 @@
       "type": "vcs",
       "url": "git@github.com:klsandbox/laravel.git"
     },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/SocialRoute.git"
+    },
 	{
       "packagist" : false
     }
