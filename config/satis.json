@@ -114,6 +114,10 @@
       "type": "vcs",
       "url": "git@github.com:mrwaim/ProductRoute.git"
     },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/KeepaliveRoute.git"
+    },
 	{
       "packagist" : false
     }
