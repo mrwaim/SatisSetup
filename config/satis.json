@@ -118,6 +118,10 @@
       "type": "vcs",
       "url": "git@github.com:mrwaim/KeepaliveRoute.git"
     },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mrwaim/SiteConfig.git"
+    },
 	{
       "packagist" : false
     }
