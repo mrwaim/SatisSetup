@@ -1,0 +1,130 @@
+{
+  "name": "KlSandbox Repository",
+  "homepage": "http://satis.klsandbox.com/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/RaniaMock.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/BackupManagement.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/RaniaPrivate.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/BonusModel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/OrderModel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/AddressModel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/FindDuplicateTags.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/sitemodel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/MoveModelCommand.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/clearcommands.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/TimelineEvents.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/SmsManager.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/laravelcoveragereport.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/randomhelper.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/rolemodel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/DbScripts.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/NotificationService.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/AnnouncementManagement.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/BillplzMock.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/BillplzRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/OrientationRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/RecruitmentRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/ReportRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/BonusRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/LoginThrottle.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/laravel.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/SocialRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/ProductRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/KeepaliveRoute.git"
+    },
+    {
+      "type": "vcs",
+      "url": "/Users/ibrar/php/SatisSetup/packages/SiteConfig.git"
+    },
+    {
+      "packagist" : false
+    }
+  ],
+  "require-all": true
+}
